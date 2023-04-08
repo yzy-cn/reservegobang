@@ -1,0 +1,11 @@
+D:\Code\c#\reversegobang\reversegobang\bin\Debug\reversegobang.exe.config
+D:\Code\c#\reversegobang\reversegobang\bin\Debug\reversegobang.exe
+D:\Code\c#\reversegobang\reversegobang\bin\Debug\reversegobang.pdb
+D:\Code\c#\reversegobang\reversegobang\obj\Debug\reversegobang.csproj.AssemblyReference.cache
+D:\Code\c#\reversegobang\reversegobang\obj\Debug\reversegobang.csproj.SuggestedBindingRedirects.cache
+D:\Code\c#\reversegobang\reversegobang\obj\Debug\reversegobang.Form1.resources
+D:\Code\c#\reversegobang\reversegobang\obj\Debug\reversegobang.Properties.Resources.resources
+D:\Code\c#\reversegobang\reversegobang\obj\Debug\reversegobang.csproj.GenerateResource.cache
+D:\Code\c#\reversegobang\reversegobang\obj\Debug\reversegobang.csproj.CoreCompileInputs.cache
+D:\Code\c#\reversegobang\reversegobang\obj\Debug\reversegobang.exe
+D:\Code\c#\reversegobang\reversegobang\obj\Debug\reversegobang.pdb
