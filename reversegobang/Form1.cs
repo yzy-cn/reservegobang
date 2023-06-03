@@ -8,7 +8,7 @@ using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//此项目由杨泽毅开发完成于2023
 namespace reversegobang
 {
     public partial class Form1 : Form
@@ -160,6 +160,7 @@ namespace reversegobang
                             else
                             {
                                 MessageBox.Show("位置错误，仅能放置在同行，列，对角线上");    // 提示位置错误
+                                return;
                             }
                         }
                     }
@@ -207,6 +208,7 @@ namespace reversegobang
                             else
                             {
                                 MessageBox.Show("位置错误，仅能放置在同行，列，对角线上");    // 提示位置错误
+                                return;
                             }
                         }
                     }
@@ -240,7 +242,7 @@ namespace reversegobang
 
         private void btnrule_Click(object sender, EventArgs e)
         {
-            string rule = "反五子棋" + "\n" + "游戏目标：让你的对手五子连珠，并保证自己不五子连珠" + "\n" + "游戏规则:" + "\n" + "在正常五子棋规则下加入移动对手棋子的功能，在你的回合可以选择对手的一颗棋子位置进行替换，并将对手棋子移动到当前棋子的同行，同列，或斜角方向。";
+            string rule = "反五子棋" + "\n" + "游戏目标：让你的对手五子连珠，并保证自己不五子连珠" + "\n" + "游戏规则:" + "\n" + "在正常五子棋规则下加入移动对手棋子的功能，在你的回合可以选择对手的一颗棋子位置进行替换，并将对手棋子移动到当前棋子的同行，同列，或斜角方向。" + "\n" + "此项目由杨泽毅开发完成，未经本人允许禁止进行任何商业活动，本人保留一切解释权利。" + "\n" + "祝大家游玩愉快。";
             MessageBox.Show(rule, "游戏规则");
         }
     }

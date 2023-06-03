@@ -126,7 +126,7 @@
             this.Controls.Add(this.panelright);
             this.Controls.Add(this.panelboard);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "反五子棋";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panelright.ResumeLayout(false);
             this.panelright.PerformLayout();
